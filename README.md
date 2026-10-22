@@ -10,9 +10,9 @@ The repository includes the SPGCD-Net model implementation (`model/`), dataset l
 
 The processed datasets used for training, validation, and testing are available through the following Google Drive links:
 
-- **LEVIR-CD:** [Download processed LEVIR-CD](INSERT_LEVIR_GOOGLE_DRIVE_LINK)
-- **SYSU-CD:** [Download processed SYSU-CD](INSERT_SYSU_GOOGLE_DRIVE_LINK)
-- **WHU-CD:** [Download processed WHU-CD](INSERT_WHU_GOOGLE_DRIVE_LINK)
+- **LEVIR-CD:** [Download processed LEVIR-CD](https://drive.google.com/file/d/1t37PJyKth0THmGaywz24L-Qnu3Iv6enn/view?usp=drive_link)
+- **SYSU-CD:** [Download processed SYSU-CD](https://drive.google.com/file/d/1ztTD8excmschSRDTdOBCVdUyDPEDFElT/view?usp=drive_link)
+- **WHU-CD:** [Download processed WHU-CD](https://drive.google.com/file/d/1pkA4A69-Exabvb1UxwuFLweljEURbwuu/view?usp=drive_link)
 
 ### 2. Data Structure
 
