@@ -2,7 +2,7 @@
 
 ## Dataset Preparation
 
-SPGCD-Net is evaluated on three publicly available remote sensing change detection datasets: LEVIR-CD, SYSU-CD, and WHU-CD. To facilitate reproducibility, we provide download links to the processed datasets used in our experiments, followed by the official sources of the original datasets.
+SPGCD-Net is evaluated on LEVIR-CD, SYSU-CD, and WHU-CD, with processed dataset downloads and official source links provided below.
 
 The repository includes the SPGCD-Net model implementation (`model/`), dataset loading (`CDDataset.py`), testing and evaluation scripts (`test.py`), and supplementary resources (`assets/`).
 
