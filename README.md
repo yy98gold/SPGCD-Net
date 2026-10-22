@@ -9,10 +9,8 @@ The dataset is publicly available, and the analysis code will be released upon a
 
 ## License
 
-The source code of SPGCD-Net is distributed under the MIT License, where applicable. Original research materials associated with this study are made available under the Creative Commons Attribution 4.0 International License (CC BY 4.0), where applicable.
-
-Third-party datasets remain subject to their respective licenses and terms of use.
+Original research materials associated with this study are made available under the Creative Commons Attribution 4.0 International License (CC BY 4.0), which permits sharing and adaptation with appropriate attribution.
 
 CC BY 4.0: https://creativecommons.org/licenses/by/4.0/
 
-MIT License: https://opensource.org/license/mit/
+Third-party datasets remain subject to their respective licenses and terms of use.
