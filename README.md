@@ -41,8 +41,8 @@ The original datasets can be accessed through their respective official sources:
 
 ## License
 
-Original research materials associated with this study are made available under the Creative Commons Attribution 4.0 International License (CC BY 4.0), which permits sharing and adaptation with appropriate attribution.
+Original research materials associated with this study are made available under the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License (CC BY-NC-ND 4.0), which permits sharing with appropriate attribution for non-commercial purposes, provided that no adaptations are distributed.
 
-CC BY 4.0: https://creativecommons.org/licenses/by/4.0/
+CC BY-NC-ND 4.0: https://creativecommons.org/licenses/by-nc-nd/4.0/
 
 Third-party datasets remain subject to their respective licenses and terms of use.
